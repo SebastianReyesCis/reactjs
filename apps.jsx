@@ -12,8 +12,10 @@ function App() {
     return (
 
         <>
+        <section className='container'>
             <h1>expreisones y funciones</h1>
             <p>{formatearnombre(usuario)}</p>
+            </section>
         </>
     )
 }
